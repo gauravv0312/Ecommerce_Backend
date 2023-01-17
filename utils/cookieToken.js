@@ -12,8 +12,8 @@ const cookieToken = (user,res)=>{
     user,
    });
 
-   console.log(user._id);
-   console.log(token);
+   // console.log(user._id);
+   // console.log(token);
 
 }
 
